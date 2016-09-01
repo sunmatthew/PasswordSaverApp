@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ca.matthewsun.passwordsaver.MainActivity">
+
+
+    <item
+        android:id="@+id/action_add_category"
+        android:title="@string/action_add_category"/>
+
+    <item
+        android:id="@+id/action_remove_category"
+        android:title="@string/action_remove_category"/>
+
+    <item
+        android:id="@+id/action_generate_password"
+        android:title="@string/action_generate_password"/>
+
+    <item
+        android:id="@+id/action_sort_categories"
+        android:title="Sort Categories"/>
+
+    <item
+        android:id="@+id/action_search_accounts"
+        android:title="Search Accounts"/>
+
+    <item
+        android:id="@+id/action_security_code"
+        android:title="@string/action_change_security_code"/>
+
+
+</menu>

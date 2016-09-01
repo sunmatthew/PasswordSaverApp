@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ca.matthewsun.passwordsaver.CategoryItemActivity">
+
+    <item
+        android:id="@+id/action_add_account"
+        android:title="Add"/>
+
+    <item
+        android:id="@+id/action_remove_account"
+        android:title="Remove"/>
+
+    <item
+        android:id="@+id/action_move_account"
+        android:title="Move"/>
+
+    <item
+        android:id="@+id/action_sort_account"
+        android:title="Sort"/>
+
+    <item
+        android:id="@+id/action_search_category"
+        android:title="Search"/>
+</menu>
